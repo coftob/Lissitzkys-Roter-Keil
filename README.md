@@ -4,7 +4,6 @@ Das Plakat „Mit dem roten Keil schlage die Weißen“ (Original auf russisch: 
 
 
 
-
 ![](img/parts/Einzelteile-13.png)
 
 
@@ -46,11 +45,14 @@ Was damit gemeint ist, erkläre ich im Folgenden.
 
 
 
+![](img/parts/Einzelteile-9.png)
+
 
 ![](img/parts/Einzelteile-15.png)
 
 
 Ob in der Komposition, welche sich konsequent in Form, Farbe und Kontrast einer Zweiteilung bedient, oder in der Darstellung der polarisierten Bevölkerung im Bürgerkrieg, welche sich lediglich als eine fragmentierte Gesellschaft zwischen den Fronten begegnet. 
+
 
 
 ### Ausgangsfrage
@@ -117,26 +119,83 @@ Der entscheidende Faktor war jedoch vermutlich, dass der Großteil der Bevölker
 ---
 
 ## Suprematismus
+![](img/artwork/suprematismus.png)
 
 
 ---
 
 ## Gegenstandslosigkeit
+![](img/artwork/quadrate.gif)
 
 
 ---
 
 
 # Formsemantische Analyse
-## Vor-ikonografische Beschreibung
-
-
+Für die Formsemantische Analyse werde ich zunächst mit der vor-ikonographischen Beschreibung anfangen und dann in eine Deutung übergehen.
 ![](img/Formsemantik.gif)
+
+
+![](img/parts/Einzelteile-7.png)
+
+
+![](img/parts/Einzelteile-14.png)
+
+
+Das Plakat hat einen zum Bildformat proportionalen Rahmen, welcher aus einer schwarzen, dünnen, durchgezogenen Linie besteht. Innerhalb des Rahmens wird die Fläche durch eine Diagonale, welche in einem Winkel von ca. 120° verläuft, rechts in eine helle und links in eine dunkle Seite aufgeteilt. Die helle Seite ist weiß, die dunkle schwarz. Auf der schwarzen Seite sieht man einen kreisförmigen Ausschnitt, welcher vom Durchmesser her ca. die Hälfte der Höhe des Plakats hat und sich im unteren, rechten Quadranten innerhalb des Rahmens befindet. Der Kreis wird von der Diagonale an zwei Punkten geschnitten.   
+
+
+Leichte nach links versetzt im Zentrum befindet sich ein rotes, gleichschenkliges Dreieck, welches von der Länge her etwas größer ist, als der Durchmesser des Kreises. Die Spitze des Dreiecks überlappt sich mit dem Kreis und endet ungefähr in der Mitte von diesem. Weitere, kleinere, rote Dreiecke befinden sich rechts, oberhalb des großen Dreiecks. Mittig, unterhalb des großen Dreiecks befindet sich eine Raute, die sich aus zwei symmetrischen Dreiecken zusammensetzt, wobei das obere schwarz und das untere rot ist. Alle Dreiecke zeigen nach links.
+
+
+Mittig unter, sowie rechts über dem großen Dreieck befinden sich jeweils zwei Vierecke, die in einem schwarzen Punktraster gefüllt sind. Das untere, kleine Viereck wird dabei von der Raute mittig gekreuzt und steht von der Rotation her parallel zum Plakat. Es befindet sich genau links von der vertikalen Mittellinie. Das obere, große Viereck schneidet mit der rechten, oberen Ecke die schwatze Fläche und ist um ca. 45° gekippt. Es befindet sich genau rechts von der Mittellinie.
+
+
+Innerhalb der schwarzen Fläche sind jeweils unter und über dem großen Kreis kleine, schmale Vierecke verteilt, welche wie kleine, dicke Linien aussehen und weiß sind. In der linken, unteren Ecke der schwarzen Fläche befinden sich zwei Linien, die diagonal, aber nicht parallel zueinander angeordnet sind. In der rechten, oberen Ecke sind sechs Linien, von denen drei ebenfalls diagonal und nicht parallel zueinander sind, sowie drei horizontale Linien, welche sowohl parallel zueinander, als auch zum Plakat sind. Außerdem befindet sich in dieser Ecke ein Quader, dessen Dreidimensionalität mithilfe einer Schattierung mit einem schwarzen Punktraster angedeutet ist und eine weitere Anordnung an Linien, welche jedoch abwechselnd beige, rot, oder mit dem schwarzen Punktraster eingefärbt sind. Diese Anordnung besteht aus horizontalen und vertikalen Linien, die alle im 90° Winkel zueinander stehen. Als einziges rundes Element in dieser Ecke ist ein kleiner, heller Kreis, auf den eins der kleineren, roten Dreiecke direkt zeigt.
+
+
+Auf der weißen Seite des Plakats befinden sich vier rote Vierecke, die ebenfalls wie kleine Linien aussehen, sowie ein breiteres, ebenfalls rotes Viereck. Die Linien sind horizontal, das Viereck vertikal ausgerichtet. Es gibt drei kurze und eine Längere Linie. Die Linien und das Viereck stehen alle im 90° Winkel zueinander. Unter der langen, roten Linie befindet sich eine Art Verbindungslinie, welche eine Ecke der roten Linie, mit der anderen verbindet. Diese ist schwarz, dünn und durchgezogen.
+
+
+Auf dem gesamten Plakat sind insgesamt vier typografische Elemente verteilt, jeweils zwei auf der rechten und linken Seite, welche gemeinsam den Schriftzug "Клином красным бей белых" bilden (Russisch für "Mit dem roten Keil schlage die Weißen"). Alle Wörter sind in Druckschrift und Versalien geschrieben. Das Wort "Клином" steht links oben in schwarz, "красным" steht unter der horizontalen Mittellinie, etwas nach rechts vom ersten Wort versetzt, schwarz umrandet, ohne Füllfarbe, "бей" steht rechts unten im großen Kreis und ist in Rot geschrieben und schlussendlich steht das Wort "белых" innerhalb der schwarzen Fläche, rechts in der Ecke des Plakats, innerhalb eines viereckigen, weißen Kästchens und die Buchstaben sind mit dem schwarzen Punktraster gefüllt. Alle Wörter sind um ca. -30° gekippt, bis auf "белых", welches um ca. -10° gekippt wurde.
+
+
+Grundsätzlich hat das Plakat drei Farben, nämlich schwarz, weiß und rot, wobei es sich bei weiß um die Papier- bzw. Hintergrundfarbe handelt.
+
 
 
 ---
 
+
+## Deutung im Kontext des Bürgerkriegs
+Um bei den Farben zu bleiben, schauen wir uns zunächst die farblich zugeordnete Rollenverteilung an. Dabei sind „die Roten“ die Hauptakteure, mit dem roten Keil als Protagonisten, während „die Weißen“ die gegnerischen Truppen darstellen. Schwarz wäre in diesem Kontext erstmal nur das Terrain. Gleichzeitig kennzeichnen schwarz und weiß die beiden gegnerischen Fronten, welche im Kontrast zueinander gegenübergestellt werden, zwischen denen sich der rote Keil bewegt. 
+
+
+Es wird ein Bild von zwei grundsätzlichen Gegensätzen mit einer hellen, dominanten und einer dunklen, unterlegenen Seite gezeichnet, was durch die optisch größer wirkenden weißen Fläche unterstrichen wird.
+Betrachtet man den Kreis als eine Negativform, anstatt einer weißen Fläche, kann man diesen als einen Leerraum interpretieren, in welchen der rote Keil ohne Widerstand eindringen kann. 
+
+
+Auch bei Betrachtung der beiden dominanten Diagonalen erkennt man eine Darstellung von einem Machtverhältnis: Die erste Diagonale sei der Verlauf des roten Keils, dessen Spitze direkt auf das Zentrum des Kreises zeigt, wie bei einer Zielscheibe, die von einem Pfeil direkt ins Schwarze getroffen wurde, die zweite sei die Grenze der feindlichen Terrains, welche von dem roten Keil ohne Weiteres bereits überschritten wurde.
+
+
+Ähnliche Dynamiken zeigen sich auch in der Komposition der einzelnen Formelemente: Die Roten zeigen zielgerichtet auf den Gegner, während due Weißen nicht nur klein, sondern auch etwas zerstreut und defensiv an den Rand gedrängt werden. Auch die typographischen Elemente folgen dem gleichen Schema, bei welchem die Wörter „Mit dem roten Keil schlage“ die Dynamik und Bewegungsrichtung des roten Keils unterstützen und das Wort „die Weißen“ nicht nur in die Ecke, sondern dieses gänzlich aus dem weißen Kreiß verdrängen.
+
+
+
+---
+
+
 ## Dualität der feindlichen Fronten
+![](img/Dualität-a.png)
+
+
+Aus einer reinen formsemantischen Deutung heraus kann man das Motiv als ein antithetisches Kampfbild bezeichnen, welches von einem Gut und Böse, einem Richtig und Falsch, einem Wir und die Anderen ausgeht, da ohne Zweifel eine eindeutige Darstellung des militärischen Konflikts zwischen den Weißen und den Roten abgebildet wird, welche ein Machtverhältnis der gegensätzlichen Fronten illustriert und dabei die Dominanz der Roten klar etabliert. 
+
+
+Auch in der Komposition, sowie Farb- und Formsprache wird eine klare Gegenüberstellung feindlicher Terrains ersichtlich, zwischen denen sich der Rote Keil als Protagonist und Hauptakteur bewegt.
+
+
+Doch steckt hinter dem „Roten Keil“ tatsächlich nur eine propagandistische Kampfansage, oder lässt sich eine tiefere Komplexität ergründen, die auf den ersten Blick nicht gleich ersichtlich ist?
 
 
 ---
@@ -144,11 +203,12 @@ Der entscheidende Faktor war jedoch vermutlich, dass der Großteil der Bevölker
 ## Visuelle Sprache
 
 
+
+---
+
+
+## Dualität von Tradition & Innovation
 ![](img/Dualität-b.png)
-
-
-
-### Dualität von Tradition & Innovation
 
 
 
@@ -160,7 +220,7 @@ Der entscheidende Faktor war jedoch vermutlich, dass der Großteil der Bevölker
 ---
 
 ## Dualität von Kampf & Sieg
-
+![](img/Dualität-c.png)
 
 ---
 
@@ -175,6 +235,13 @@ Scrollen für Literaturverzeichnis und Bildnachweise!
 <br>
 [Hier klicken](#start), um zum Anfang zu springen!
 
+
+### Credits
+Text & Gestaltung: **Maria Dinitz** <br>
+Betreuung: **Dr. Sabine de Günther** <br>
+Kurs: **Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert** <br><br>
+Sommersemester 2024 <br>
+Fachhochschule Potsdam <br>
 
 
 ![](img/pfeil2.png)
