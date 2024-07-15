@@ -276,6 +276,13 @@ p {
     
 }
 
+.kopf h4{
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 2% 4% 7%;
+}
+
 .verzeichnis li {
     font-size: 11px; 
     font-family: Avenir Next;
@@ -326,8 +333,8 @@ p {
     will-change: top;
    /* border-radius: 1em;*/
     border-style: solid;
-    border-width: 0.75px;
-    border-color: #ffffff;
+    border-width: 1px;
+    border-color: #8c857fd8;
     /*border-color: #7d6b5ecc;*/
 }
 .cursor{
@@ -545,6 +552,13 @@ footer a:hover img, footer a:active img {
     }
     footer p a:last-child img {
         margin-right: 0;
+    }
+
+    .kopf h4{
+        font-size: 13px;
+        text-transform: uppercase;
+        text-align: center;
+        margin: 2% 10% 7%;
     }
 }
 
