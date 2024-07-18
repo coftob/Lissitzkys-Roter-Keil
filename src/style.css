@@ -123,7 +123,6 @@ body {
     overflow-x: hidden;
     background-color: var(--background);
     color: var(--font);
-    background-image: url('img/Hintergrund.png') !important; 
 
 }
 
@@ -135,7 +134,6 @@ body {
         --background-content: color-mix(in srgb, var(--theme-color) 0%,  #F4F3ED);
         --font: #171717;
         --font-inverted: #ffffff;
-        background-image: url('img/Hintergrund.png') !important; 
 
     }
     footer img {
@@ -235,9 +233,10 @@ h2 {
 }
 h3 {
     margin: .5em 0;
-    font-size: 2em;    
+    font-size: 1.5em;    
     font-family: "Avenir Next", sans-serif; 
     color: #aa494700;
+    text-align: center;
     text-transform: uppercase;
     font-weight: bold;
     -webkit-text-stroke-width: 1.5px;
@@ -245,6 +244,17 @@ h3 {
     letter-spacing: 3px;
 
   
+}
+
+h6 {
+    margin: 5px;
+    font-size: 10px;    
+    font-family: "Avenir Next", sans-serif; 
+    color: #635B54;
+    font-weight: 400;
+    font-style: italic;
+
+    text-align: center;
 }
 ul {
     padding: 0 0 0 1em;
@@ -311,6 +321,7 @@ p {
     font-size: 22px; 
     -webkit-text-stroke-width: 1px;
     color: #EAE6DC;
+    text-align: left;
 
     
 }
@@ -382,6 +393,10 @@ p {
 
 }
 
+.content h3 {
+    text-align: left;
+}
+
 .content figure {
     text-align: center;
     margin: 0;
@@ -393,6 +408,9 @@ p {
     height: 25em;
     max-height: 25em;
     object-fit: contain;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 a {
@@ -504,6 +522,9 @@ footer a:hover img, footer a:active img {
         max-width: 17.5em;
         max-height: 17.5em;
         height: 17.5em;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .cursor{
