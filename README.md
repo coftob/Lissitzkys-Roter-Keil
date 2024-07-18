@@ -259,6 +259,7 @@ Doch steckt hinter dem „Roten Keil“ tatsächlich nur eine propagandistische 
 Semantisierung der Form bedeutet, dass Formen nicht nur als visuelle Elemente, sondern wie eine Art Syntax für eine lesbare Sprache verwendet werden. So sollte die abstrakte Darstellungsform von der Mehrheitsbevölkerung verstanden werden können, vor allem in einer Zeit des politischen Umbruchs.
 
 
+
 Lissitzkys gegenstandslose Darstellungsweise nahm viel Inspiration aus bereits vorhandenen russischen Kulturelementen. Dadurch konnten die abstrakten Formen in einen Kontext gesetzt werden, der für die Bevölkerung nachvollziehbar war. 
 
 
@@ -285,6 +286,7 @@ Lissitzkys Formsemantik weist deutliche Anklänge an die russische Volkskunst au
 Die geometrischen Formen, die in traditionellen russischen Mustern häufig vorkommen, waren ebenfalls ein Referenzpunkt. Diese Formen waren oft in Bestickungen von Textilien, Bemalungen von Geschirr und anderen Gegenständen zu finden. Durch die Einbindung dieser vertrauten Elemente konnte Lissitzky eine Verbindung zwischen der traditionellen Volkskunst und der modernen, abstrakten Kunst herstellen.
 
 
+
 ---
 
 <!--skipnav-->
@@ -302,6 +304,11 @@ In der traditionellen Ikonenmalerei spielen geometrische Formen wie Dreiecke, Kr
 
 ![](img/Ikonen/Ikone_1.png)
 ###### **Abb. 11:** Unbekannt. (1680). Russische Ikone, Gottesmutter Hodegetria von Tichwin.
+
+
+![](img/Ikonen/Ikone_merge.webp)
+###### **Abb. 10 + 11:** Eigene Bearbeitung – Geometrisch konstruierte Ikonenkompositionen.
+
 
 ---
 
