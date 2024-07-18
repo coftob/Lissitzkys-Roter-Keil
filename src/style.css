@@ -111,11 +111,11 @@ body {
     font-family: "Josefin Slab", serif;
     hyphens: auto;
 	touch-action: pan-x pan-y;
-    --background-menu: hsla(0, 0%, 100%, .8);
-    --background: color-mix(in srgb, var(--theme-color) 15%, hsla(0, 0%, 90%, 1));
-    --background-cursor: color-mix(in srgb, var(--theme-color) 10%, hsla(0, 0%, 95%, .9));
-    --background-content: color-mix(in srgb, var(--theme-color) 5%, #ece9e2);
-    --font: #000;
+    --background-menu: #AA4847;
+    --background: color-mix(in srgb, var(--theme-color) 0%,#eae6dc);
+    --background-cursor: color-mix(in srgb, var(--theme-color) 0%,  #f1efe6dd);
+    --background-content: color-mix(in srgb, var(--theme-color) 0%,  #AA4847);
+    --font: #171717;
     --font-inverted: #fff;
     --link: #171717; 
     --hover: #fff; 
@@ -126,19 +126,25 @@ body {
 
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
     body, body.overlay{
         --background-menu: #AA4847;
-        --background: color-mix(in srgb, var(--theme-color) 0%,#eae6dc);
-        --background-cursor: color-mix(in srgb, var(--theme-color) 0%,  #f1efe6dd);
-        --background-content: color-mix(in srgb, var(--theme-color) 0%,  #F4F3ED);
-        --font: #171717;
-        --font-inverted: #ffffff;
+        --background: color-mix(in srgb, var(--theme-color) 0%,#171717);
+        --background-cursor: color-mix(in srgb, var(--theme-color) 0%,  #323232d7);
+        --background-content: color-mix(in srgb, var(--theme-color) 0%,  #AA4847);
+        --font: #fff;
+        --font-inverted: #171717;
 
     }
     footer img {
-        filter: invert(0%);
+        filter: invert(100%);
     }
+    .cursor h3 {
+        color: #32323200;
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: rgb(255, 255, 255);    
+    }
+
 }
 
 *::selection {
@@ -250,10 +256,9 @@ h6 {
     margin: 5px;
     font-size: 10px;    
     font-family: "Avenir Next", sans-serif; 
-    color: #635B54;
+    color: #AA4847;
     font-weight: 400;
     font-style: italic;
-
     text-align: center;
 }
 ul {
