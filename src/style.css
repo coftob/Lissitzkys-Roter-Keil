@@ -125,8 +125,33 @@ body {
     color: var(--font);
 
 }
-
-@media (prefers-color-scheme: light) {
+.verzeichnis h3 {
+    font-size: 22px; 
+    -webkit-text-stroke-width: 1px;
+    color: #EAE6DC;
+    text-align: left;
+    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-color: rgb(17, 17, 17);
+}
+.footer a:hover {
+    color: #AA4847;
+}
+.cursor a:hover {
+    color: #AA4847;
+}
+#lightpic {
+    display: block;
+}
+#darkpic {
+    display: none;
+}
+.h6 {
+    color: #635B54;
+}
+.content h6 {
+    color: #635B54;
+}
+@media (prefers-color-scheme: dark) {
     body, body.overlay{
         --background-menu: #AA4847;
         --background: color-mix(in srgb, var(--theme-color) 0%,#171717);
@@ -139,11 +164,41 @@ body {
     footer img {
         filter: invert(100%);
     }
+    footer a {
+        color: #AA4847;
+    }
+    footer a:hover {
+        color: #fff;
+    }
     .cursor h3 {
         color: #32323200;
         -webkit-text-stroke-width: 1px;
         -webkit-text-stroke-color: rgb(255, 255, 255);    
     }
+    .cursor a {
+        color: #AA4847;
+    }
+    .cursor a:hover {
+        color: #fff;
+    }
+    .verzeichnis h3 {
+        color: #171717;
+        -webkit-text-stroke-width: 0.75px;
+        -webkit-text-stroke-color: rgb(255, 255, 255);    
+    }
+    #lightpic {
+        display: none;
+    }
+    #darkpic {
+        display: block;
+    }
+    .h6 {
+        color: #fff;
+    }
+    .content h6 {
+        color: #fff;
+    }
+    
 
 }
 
@@ -256,7 +311,6 @@ h6 {
     margin: 5px;
     font-size: 10px;    
     font-family: "Avenir Next", sans-serif; 
-    color: #AA4847;
     font-weight: 400;
     font-style: italic;
     text-align: center;
@@ -287,8 +341,6 @@ p {
 
  .verzeichnis {
     margin: 0% 4% 7%;
-
-    
 }
 
 .kopf h4{
@@ -321,15 +373,6 @@ p {
     font-weight: bold;
 } 
 
-
-.verzeichnis h3 {
-    font-size: 22px; 
-    -webkit-text-stroke-width: 1px;
-    color: #EAE6DC;
-    text-align: left;
-
-    
-}
 
 #wrapper {
     position: absolute;
