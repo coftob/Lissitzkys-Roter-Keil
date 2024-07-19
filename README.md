@@ -79,6 +79,8 @@ Bevor ich in die tatsächliche Bildanalyse gehe, ist es wichtig, einen grundlege
 <img src='img/parts/Einzelteile-8.png' class="noresize">
 
 
+<img src='img/parts/Quadrateparts-4.png' class="noresize">
+
 
 ### Russische Bevölkerung verstehen
 Keine Kultur existiert ohne ihre Bevölkerung. Um die Kohärenz hinter den Propagandainstrumenten als Gesamtbild zu verstehen, sollte man zuerst die russische Mentalität und ihren gesellschaftlichen Kontext zumindest in Grundzügen erfassen. 
@@ -115,6 +117,9 @@ El Lissitzky (* 22.11.1890, Potschinok; † 30.12.1941, Moskau), gebürtig Lasar
 ###### **Abb. 2:** Lissitzky, E. (1924). Der Konstrukteur (Selbstbildnis).
 
 
+<img src='img/parts/Quadrateparts-10.png' class="noresize">
+
+
 ### Werdegang
 1909 bis 1914 studierte er Architektur und Ingenieurwissenschaften an der Technischen Hochschule Darmstadt und hatte ab 1919 eine Professur an der Kunsthochschule in Witebsk, wo er mit anderen bedeutenden Künstlern dieser Zeit, z.B. Mark Chagall und Kasimir Malewitsch, zusammenarbeitete.
 
@@ -131,6 +136,9 @@ Ursprünglich war UNOWIS eine Künstlergruppe an der Hochschule, hatte sich jedo
 ![](img/UNOWIS_1.png)
 ###### **Abb. 3:** Nakov, A., & Malewitsch, K. (1920). Gruppe UNOWIS auf dem Weg nach Moskau zur Gesamtrussischen Konferenz der Kunstlehrer und -schüler.
 
+
+![](img/Fotos/lissitzky.png)
+###### **Abb. 3:** Ausschnitt – El Lissitzky.
 
 
 ![](img/UNOWIS_2.png)
@@ -152,6 +160,9 @@ Der Suprematismus, welcher von Kasimir Malewitsch aus dem Futurismus heraus entw
 ###### **Abb. 5:** Malewitsch, K. (1916). Dynamischer Suprematismus. ML 1294 (links). **Abb. 6:** Lissitzky, E. (1920). Proun 1E – Die Stadt (rechts).
 
 
+<img src='img/parts/Einzelteile-1.png' class="noresize">
+
+
 Diese Kunstrichtung ist konsequent gegenstandslos und stellt keine Abstraktionen von Menschen oder Gegenständen dar, sondern fokussiert sich ausschließlich auf die Darstellung von geometrischen Formen. Dieser folgt dem Prinzip der „gegenständlich-technischen Vollkommenheit“ in der Wissenschaft. Im Gegensatz zu anderen abstrakten Künstlern, z.B. Wassily Kandinsky, der eher expressionistisch arbeitete, zeichnet sich der Suprematismus durch einen sehr technischen und geometrischen Ansatz aus, der auf theoretischen Konzepten basiert.
 
 
@@ -167,21 +178,32 @@ Seine Arbeit hatte später Einfluss auf andere Kunstrichtungen, z. B. die hollä
 Ein zentrales Merkmal des Suprematismus ist die vollkommene Gegenstandslosigkeit, derer sich sowohl Malewitsch, als auch Lissitzky in ihren Werken bedienten. In Lissitzys suprematistischen Arbeiten lassen sich oft sowohl geometrische Formen, als auch typographische Elemente wiederfinden, so wie es auch im "Roten Keil" der Fall ist. Anhand seines Bilderbuches "Suprematische Erzählung von zwei Quadraten" wird außerdem deutlich, auf welche Weise er die gegenstandslosen Prinzipien des Suprematismus für seine Narration eingesetzt hat.
 
 
-![](img/Zwei_Quadrate.webp)
+<img src='img/parts/Quadrateparts-8.png' class="noresize">
+
+
+<img src='img/parts/Einzelteile-2.png' class="noresize">
+
+
+![](img/Suprematismus/Zwei_Quadrate.webp)
 ###### **Abb. 7:** Lissitzky, E. (1920). Suprematische Erzählung von zwei Quadraten in 6 Aufstellungen (Eigene Übersetzung ins Deutsche).
 
 
-
+### Malewitschs Kunstauffassung
 Jedoch bestand ein entscheidender, ideologischer Unterschied zwischen den beiden Künstlern in ihren Sichtweisen. Für Malewitsch hatte der Suprematismus eine metaphysische Dimension. Er sah in der utopischen „reinen Gegenstandslosigkeit“ einen idealen Zustand, den es zu erreichen galt. Seine suprematistischen Gestaltungen repräsentierten diesen Idealzustand, in dem Formen eine metaphysische Bedeutung hatten und eine höhere, abstrakte Realität darstellten.
 
 
+### Lissitzkys Kunstauffassung
 El Lissitzky hingegen verfolgte keine metaphysische Kunstauffassung. In seiner Arbeit mit den sogenannten "Prounen" (Projekt für die Befestigung des Neuen) sah er diese als eigenständige Dinge, die nicht nur Kunstwerke, sondern Modelle einer neuen Welt waren. Er nutzte die Gegenstandslosigkeit, um etwas Neues zu kreieren, anstatt das Bestehende abzubilden. Dies passte hervorragend zum politischen Umbruch der Zeit, in dem alte Strukturen zerstört und durch neue ersetzt werden sollten, wodurch sich die russische Avantgarde-Bewegung stark politisierte.
 
 
-Lissitzky hatte das Ziel, die Form unter anderem für politische Zwecke zu semantisieren, also mit Bedeutung zu versehen. Im Gegensatz zu Malewitsch, der die Kunst als Ausdruck einer metaphysischen Utopie sah, nutzte Lissitzky die Kunst als Werkzeug zur Verbreitung politischer Ideen und zur Gestaltung einer neuen, revolutionären Gesellschaft. Seine Prounen dienten als offene utopische Modelle, die den Wandel und die neue Welt symbolisierten, die durch die Revolution entstehen sollte. 
+### Prounen
+Lissitzky hatte das Ziel, die Form unter anderem für politische Zwecke zu semantisieren, also mit Bedeutung zu versehen. Im Gegensatz zu Malewitsch, der die Kunst als Ausdruck einer metaphysischen Utopie sah, nutzte Lissitzky die Kunst als Werkzeug zur Verbreitung politischer Ideen und zur Gestaltung einer neuen, revolutionären Gesellschaft. Seine Prounen (Akkronym für "Projekt für die Behauptung des Neuen" – Bezeichnung für Lissitzkys Werke) dienten als offene utopische Modelle, die den Wandel und die neue Welt symbolisierten, die durch die Revolution entstehen sollte. 
 
 
 Der größte Unterschied liegt daher in Lissitzkys Ziel der Semantisierung der Form, auch für politische Zwecke, während Malewitsch eine metaphysische, idealistische Auffassung des Suprematismus verfolgte.
+
+
+<img src='img/parts/Quadrateparts-2.png' class="noresize">
 
 
 ---
@@ -225,45 +247,114 @@ Das Plakat verwendet insgesamt drei Farben: Schwarz, Weiß und Rot. Weiß stellt
 
 ---
 
+<!--skipnav-->
 
-## Deutung im Kontext des Bürgerkriegs
+### Akteure des Bürgerkriegs
 Um bei den Farben zu bleiben, gehe ich zunächst auf die farblich zugeordnete Rollenverteilung ein. 
+<img src='img/RoterKeil/Keil_1.png' id="lightpic">
+<img src='img/RoterKeil/Keil_dark.png' id="darkpic">
+
+###### **Abb. 1:** Eigene Bearbeitung – Akteure nach Farben.
 
 
-Dabei sind „die Roten“ die Hauptakteure, mit dem roten Keil als Protagonisten, während „die Weißen“ die gegnerischen Truppen darstellen. Schwarz wäre in diesem Kontext erst einmal nur das Terrain. Gleichzeitig kennzeichnen Schwarz und Weiß die beiden gegnerischen Fronten, welche im Kontrast zueinander gegenübergestellt werden, zwischen denen sich der rote Keil bewegt. Es wird ein Bild von zwei grundsätzlichen Gegensätzen gezeichnet, mit einer hellen, dominanten und einer dunklen, unterlegenen Seite, was durch die optisch größer wirkende weiße Fläche unterstrichen wird.
+<img src='img/parts/Einzelteile-15.png' class="noresize">
 
 
-Betrachtet man den Kreis als eine Negativform anstatt einer weißen Fläche, kann man diesen als einen Leerraum interpretieren, in den der rote Keil ohne Widerstand eindringen kann. Auch bei Betrachtung der beiden dominanten Diagonalen erkennt man eine Darstellung eines Machtverhältnisses: Die erste Diagonale ist der Verlauf des roten Keils, dessen Spitze direkt auf das Zentrum des Kreises zeigt, wie bei einer Zielscheibe, die von einem Pfeil direkt ins Schwarze getroffen wurde. Die zweite ist die Grenze des feindlichen Terrains, welche von dem roten Keil bereits überschritten wurde.
+Dabei sind „die Roten“ die Hauptakteure, mit dem roten Keil als Protagonisten, während „die Weißen“ die gegnerischen Truppen darstellen. Schwarz wäre in diesem Kontext erst einmal nur das Terrain. 
 
 
-Ähnliche Dynamiken zeigen sich in der Komposition der einzelnen Formelemente: Die Roten zeigen zielgerichtet auf den Gegner, während die Weißen nicht nur klein, sondern auch etwas zerstreut und defensiv an den Rand gedrängt werden. Auch die typografischen Elemente folgen dem gleichen Schema, bei welchem die Wörter „Mit dem roten Keil schlage“ die Dynamik und Bewegungsrichtung des roten Keils unterstützen und das Wort „die Weißen“ nicht nur in die Ecke, sondern dieses gänzlich aus dem weißen Kreis verdrängen.
+Gleichzeitig kennzeichnen Schwarz und Weiß die beiden gegnerischen Fronten, welche im Kontrast zueinander gegenübergestellt werden, zwischen denen sich der rote Keil bewegt. Es wird ein Bild von zwei grundsätzlichen Gegensätzen gezeichnet, mit einer hellen, dominanten und einer dunklen, unterlegenen Seite, was durch die optisch größer wirkende weiße Fläche unterstrichen wird.
 
+
+![](img/RoterKeil/Keil_2.png)
+###### **Abb. 1:** Eigene Bearbeitung – Gegenüberstellung der gegnerischen Fronten.
+
+
+---
+
+<!--skipnav-->
+
+### Machtverhältnisse
+Betrachtet man den Kreis als eine Negativform anstatt einer weißen Fläche, kann man diesen als einen Leerraum interpretieren, in den der rote Keil ohne Widerstand eindringen kann. 
+![](img/RoterKeil/Keil_3.png)
+###### **Abb. 1:** Eigene Bearbeitung – Darstellung eines Machtverhältnisses.
+
+
+<img src='img/parts/Einzelteile-1.png' class="noresize">
+
+
+Auch bei Betrachtung der beiden dominanten Diagonalen erkennt man eine Darstellung eines Machtverhältnisses: Die erste Diagonale ist der Verlauf des roten Keils, dessen Spitze direkt auf das Zentrum des Kreises zeigt, wie bei einer Zielscheibe, die von einem Pfeil direkt ins Schwarze getroffen wurde. 
+
+
+Die zweite ist die Grenze des feindlichen Terrains, welche von dem roten Keil bereits überschritten wurde.
+
+
+<img src='img/parts/Einzelteile-14.png' class="noresize">
+
+
+---
+
+<!--skipnav-->
+
+### Dominanz der Roten
+Ähnliche Dynamiken zeigen sich in der Komposition der einzelnen Formelemente. 
+![](img/RoterKeil/Keil_4.png)
+###### **Abb. 1:** Eigene Bearbeitung – Dominanzdarstellung durch Formsprache.
+
+
+<img src='img/parts/Quadrateparts-9.png' class="noresize">
+
+
+Die Roten zeigen zielgerichtet auf den Gegner, während die Weißen nicht nur klein, sondern auch etwas zerstreut und defensiv an den Rand gedrängt werden. 
+
+
+Auch die typografischen Elemente folgen dem gleichen Schema, bei welchem die Wörter „Mit dem roten Keil schlage“ die Dynamik und Bewegungsrichtung des roten Keils unterstützen und das Wort „die Weißen“ nicht nur in die Ecke, sondern dieses gänzlich aus dem weißen Kreis verdrängen.
+
+
+![](img/RoterKeil/Keil_5.png)
+###### **Abb. 1:** Eigene Bearbeitung – Dominanzdarstellung durch Typographie.
 
 
 ---
 
 
 ## Dualität der feindlichen Fronten
-![](img/Dualität-a.png)
+<img src='img/Grafiken/Light_01.png' class="noresize" id="lightpic">
+<img src='img/Grafiken/Dark_01.png' class="noresize" id="darkpic">
 
 
-Aus einer rein formsemantischen Deutung heraus kann man das Motiv als ein antithetisches Kampfbild bezeichnen, das von einem Gut und Böse, Richtig und Falsch, Wir und die Anderen ausgeht. Ohne Zweifel wird eine eindeutige Darstellung des militärischen Konflikts zwischen den Weißen und den Roten abgebildet, welches ein Machtverhältnis der gegensätzlichen Fronten illustriert und dabei die Dominanz der Roten klar etabliert. Auch in der Komposition sowie in der Farb- und Formsprache wird eine klare Gegenüberstellung feindlicher Terrains ersichtlich, zwischen denen sich der Rote Keil als Protagonist und Hauptakteur bewegt.
+<img src='img/parts/klinom.png' class="noresize">
 
 
+### Antithetisches Kampfbild
+Aus einer rein formsemantischen Deutung heraus kann man das Motiv als ein antithetisches Kampfbild bezeichnen, das von einem Gut und Böse, Richtig und Falsch, Wir und die Anderen ausgeht. Ohne Zweifel wird eine eindeutige Darstellung des militärischen Konflikts zwischen den Weißen und den Roten abgebildet, welches ein Machtverhältnis der gegensätzlichen Fronten illustriert und dabei die Dominanz der Roten klar etabliert. 
+
+
+Auch in der Komposition sowie in der Farb- und Formsprache wird eine klare Gegenüberstellung feindlicher Terrains ersichtlich, zwischen denen sich der Rote Keil als Protagonist und Hauptakteur bewegt.
+
+
+<img src='img/parts/bej.png' class="noresize">
+
+
+### Oder mehr als das?
 Doch steckt hinter dem „Roten Keil“ tatsächlich nur eine propagandistische Kampfansage, oder lässt sich eine tiefere Komplexität ergründen, die auf den ersten Blick nicht gleich ersichtlich ist?
 
 
 ---
 
-## Visuelle Sprache
+# Visuelle Sprache
 Semantisierung der Form bedeutet, dass Formen nicht nur als visuelle Elemente, sondern wie eine Art Syntax für eine lesbare Sprache verwendet werden. So sollte die abstrakte Darstellungsform von der Mehrheitsbevölkerung verstanden werden können, vor allem in einer Zeit des politischen Umbruchs.
 
 
+<img src='img/parts/Quadrateparts-2.png' class="noresize">
 
-Lissitzkys gegenstandslose Darstellungsweise nahm viel Inspiration aus bereits vorhandenen russischen Kulturelementen. Dadurch konnten die abstrakten Formen in einen Kontext gesetzt werden, der für die Bevölkerung nachvollziehbar war. 
 
 
-Z. B. flossen Ikonen, Volkskunst und traditionelle Muster in die Arbeiten ein und schafften eine Verbindung zwischen der avantgardistischen Formensprache und der kulturellen Identität der russischen Bevölkerung.
+<img src='img/parts/Quadrateparts-6.png' class="noresize">
+
+
+
+Lissitzkys gegenstandslose Darstellungsweise nahm viel Inspiration aus bereits vorhandenen russischen Kulturelementen. Dadurch konnten die abstrakten Formen in einen Kontext gesetzt werden, der für die Bevölkerung nachvollziehbar war. Z. B. flossen Ikonen, Volkskunst und traditionelle Muster in die Arbeiten ein und schafften eine Verbindung zwischen der avantgardistischen Formensprache und der kulturellen Identität der russischen Bevölkerung.
 
 
 
@@ -345,6 +436,8 @@ Aus der Perspektive der Farbsymbolik wird besonders die Farbe Rot wichtig, z. B.
 ###### **Abb. 13:** Kustodjew, B. (1919). Der Bolschewik.
 
 
+<img src='img/parts/Quadrateparts-1.png' class="noresize">
+
 
 Das russische Wort für Rot, "krasnyj", teilt denselben Wortstamm wie das Wort für Schön, "krasivyj", was eine positive Assoziation der Farbe Rot in der russischen Kultur widerspiegelt. In der Tradition war die "Rote Ecke" in russischen Wohnungen der Ort, an dem Ikonen aufgestellt werden.
 
@@ -369,6 +462,9 @@ Seit den 1870er Jahren war Rot auch die Farbe der sozialistischen Bewegung und s
 ###### **Abb. 16:** Kolli, N. D. (1918). Denkmal „Roter Keil“ – Skizze.
 
 
+<img src='img/parts/Einzelteile.png' class="noresize">
+
+
 Der rote Keil wurde bereits vor Lissitzkys Plakat von der sowjetischen Bewegung als ein Symbol der Revolution verstanden, so tauchte die Metapher des roten Keils schon während der Oktoberrevolution auf. Z. B. Verwendete der Revolutionär Lew Trotzki den Ausdruck „Keil der Revolution“ in seinen politischen Reden und auch existierte ein Jahr nach der Revolution ein vorübergehendes Denkmal mit dem Titel „Roter Keil“, welches Ähnlichkeiten zu Lissitzkys Komposition aufwies. 
 
 
@@ -380,27 +476,40 @@ Der rote Keil wurde bereits vor Lissitzkys Plakat von der sowjetischen Bewegung 
 ###### **Abb. 18:** Dinitz, M. (2024). Foto eines Sovietstern Ansteckers aus 1964.
 
 
-Ebenfalls sei anzumerken, dass die Motive von Lissitzkys „Roten Keil“ eng mit der Entstehung der frühen sowjetischen Symbolik verbunden sind. Die Bolschewiki wählten das Emblem des roten Sterns als erstes Symbol aus, um Russland auf der internationalen Bühne zu positionieren. Dieses Emblem besteht aus fünf von der Mitte ausgerichteten Dreiecken, wodurch der Keil als ein Element des Sterns eine zusätzliche Bedeutung erhält.
+Auch sei anzumerken, dass die Motive von Lissitzkys „Roten Keil“ eng mit der Entstehung der frühen sowjetischen Symbolik verbunden sind. Die Bolschewiki wählten das Emblem des roten Sterns als erstes Symbol aus, um Russland auf der internationalen Bühne zu positionieren. Dieses Emblem besteht aus fünf von der Mitte ausgerichteten Dreiecken, wodurch der Keil als ein Element des Sterns eine zusätzliche Bedeutung erhält.
 
 
 ---
 
 
 ## Dualität von Tradition & Innovation
-![](img/Dualität-b.png)
+<img src='img/Grafiken/Light_02.png' class="noresize" id="lightpic">
+<img src='img/Grafiken/Dark_02.png' class="noresize" id="darkpic">
 
 
+<img src='img/parts/Einzelteile-8.png' class="noresize">
+
+
+### Alt oder Neu?
 Unter all diesen Aspekten stellt sich die Frage, inwiefern sich das suprematistische Prinzip der Abgrenzung von Altbekanntem mit der Verwendung so vieler traditioneller Referenzen vereinbaren ließ? Laut Lissitzky steht die Erschaffung des Neuen unter der Verwendung altbekannter Symbolik keineswegs im Konflikt zueinander.
 
 
+### Why not both!
 Er strebte danach, eine klare und universell verständliche Bildsprache zu entwickeln, die auf einfachen Formen und archetypischen Symbolen basiert. Diese sollten eine direkte Kommunikation mit der Mehrheitsbevölkerung ermöglichen, unabhängig von deren Bildungsstand. Dabei transformierte er vertraute Formen in moderne Ausdrucksformen, ohne bloße Abbildungen zu schaffen.
 
 
 
 ---
 
+
 # Wahrnehmungspsychologische Analyse
 Der Fokus der wahrnehmungspsychologischen Analyse liegt darauf, bestimmte Elemente des Plakats den Maßstäben zeitgenössischer Experten zu Lissitzkys Lebenszeiten in ihrer psychologischen und unterbewussten Wirkung auf den Betrachter zu untersuchen.
+
+
+<img src='img/parts/Quadrateparts-4.png' class="noresize">
+
+
+<img src='img/parts/Einzelteile-9.png' class="noresize">
 
 
 ---
@@ -408,9 +517,17 @@ Der Fokus der wahrnehmungspsychologischen Analyse liegt darauf, bestimmte Elemen
 <!--skipnav-->
 
 ### Nach Arnheim
+Rudolf Arnheim (* 15. Juli 1904, Berlin; † 9. Juni 2007, Ann Arbor, Michigan) war ein  deutsch-US-amerikanischer Medienwissenschaftler und Kunstpsychologe.
+![](img/RoterKeil/Keil_6.png)
+###### **Abb. 1:** Eigene Bearbeitung – Verhältnis von Keil und Kreis.
 
 
-Rudolf Arnheim betont, dass Bildelemente in einem "Kräftespiel" stehen, wobei die Schrägheit von Formen Dynamik ausdrückt. Auf diesem Plakat existieren der Keil und der Kreis in einem solchen Kräftespiel. Die schräg gestellte Keilform sorgt für eine aktive Dynamik. Seine schräge Anordnung und Form erzeugen eine Bewegungsrichtung, die von der Normalität (gerade, frontale Linien) abweicht und so Dynamik und Aggressivität vermittelt. 
+![](img/Fotos/arnheim.png)
+###### **Abb. 19:** Unbekannt. (1950s). Rudolf Arnheim performing a class at the Sarah Lawrence College in Bronxville.
+
+
+
+Arnheim betont, dass Bildelemente in einem "Kräftespiel" stehen, wobei die Schrägheit von Formen Dynamik ausdrückt. Auf diesem Plakat existieren der Keil und der Kreis in einem solchen Kräftespiel. Die schräg gestellte Keilform sorgt für eine aktive Dynamik. Seine schräge Anordnung und Form erzeugen eine Bewegungsrichtung, die von der Normalität (gerade, frontale Linien) abweicht und so Dynamik und Aggressivität vermittelt. 
 
 
 Der Kreis bildet das passive Element im Bild, das durch den Keil attackiert wird. Das Verhältnis von Keil und Kreis erzeugt eine bipolare Konstellation. Der Kontrast entsteht durch die Begegnung der beiden Partner, getrennt und im Gleichgewicht gehalten durch eine imaginäre Mittelachse. Diese innere Spannung resultiert aus dem Gegensatz der beiden Formen, wobei der Keil als aggressives, eindringendes Element wahrgenommen wird und der Kreis als ruhiges, passives Ziel.
@@ -421,19 +538,33 @@ Der Kreis bildet das passive Element im Bild, das durch den Keil attackiert wird
 <!--skipnav-->
 
 ### Nach Kandinsky
+Wassily Kandinsky (16. Dezember 1866, Moskau; † 13. Dezember 1944, Neuilly-sur-Seine, Frankreich) war ein russischer Maler, Grafiker und Kunsttheoretiker.
+![](img/RoterKeil/Keil_7.png)
+###### **Abb. 1:** Eigene Bearbeitung – Dynamik der Diagonalen.
 
 
-Wassily Kandinsky untersuchte die Empfindungswerte der Diagonalen und deren Wirkung auf die Betrachter. Die dramatische Spannung wird durch die Diagonale des Keils erzeugt. Diese Diagonale repräsentiert den höchsten Gegensatz und verstärkt die aggressive und kämpferische Stimmung des Plakats. Der Kreis bietet einen milden Gegensatz zur scharfen Diagonalen des Keils, was die Spannung zwischen den beiden Formen intensiviert.
+![](img/Fotos/kandinsky.png)
+###### **Abb. 20:** Erfurth, H. (1920). Porträt Wassily Kandinsky.
+
+
+Kandinsky untersuchte die Empfindungswerte der Diagonalen und deren Wirkung auf die Betrachter. Die dramatische Spannung wird durch die Diagonale des Keils erzeugt. Diese Diagonale repräsentiert den höchsten Gegensatz und verstärkt die aggressive und kämpferische Stimmung des Plakats. Der Kreis bietet einen milden Gegensatz zur scharfen Diagonalen des Keils, was die Spannung zwischen den beiden Formen intensiviert.
 
 
 ---
 
 <!--skipnav-->
 
-### Nach Wölflin
+### Nach Wölfflin
+Heinrich Wölfflin (* 21. Juni 1864, Winterthur; † 19. Juli 1945, Zürich) war ein Schweizer Kunsthistoriker.
+![](img/RoterKeil/Keil_8.png)
+###### **Abb. 1:** Eigene Bearbeitung – Leserichtung.
 
 
-Heinrich Wölflins Beobachtungen zur Bildwahrnehmung und den Stimmungswerten der Bildhälften sowie den Diagonalen bieten weitere Einblicke in die Wirkung des Plakats. Die Leserichtung von links nach rechts beeinflusst die Wahrnehmung des Bildes. Eine Links-rechts-Diagonale wird als steigend empfunden, was die Dynamik und den Vorwärtsdrang des roten Keils verstärkt. 
+![](img/Fotos/wölffin.png)
+###### **Abb. 21:** Wasow, E. (1924). Porträt Heinrich Wölfflin.
+
+
+Wölfflins Beobachtungen zur Bildwahrnehmung und den Stimmungswerten der Bildhälften sowie den Diagonalen bieten weitere Einblicke in die Wirkung des Plakats. Die Leserichtung von links nach rechts beeinflusst die Wahrnehmung des Bildes. Eine Links-rechts-Diagonale wird als steigend empfunden, was die Dynamik und den Vorwärtsdrang des roten Keils verstärkt. 
 
 
 Der linke Bereich des Bildes, der den Angriff des Keils darstellt, wird als der Beginn einer Aktion wahrgenommen, während der rechte Bereich, das Eindringen des Keils in den Kreis, als das Ziel oder das "letzte Wort" gilt. Dies verstärkt die narrative Kraft des Plakats.
@@ -442,12 +573,18 @@ Der linke Bereich des Bildes, der den Angriff des Keils darstellt, wird als der 
 ---
 
 ## Dualität von Kampf & Sieg
-![](img/Dualität-c.png)
+<img src='img/Grafiken/Light_03.png' class="noresize" id="lightpic">
+<img src='img/Grafiken/Dark_03.png' class="noresize" id="darkpic">
 
 
+<img src='img/parts/Quadrateparts-5.png' class="noresize">
+
+
+### Dynamische Bewegung
 Wie die Wahrnehmungspsychologie richtig erkannt hat, werden im „Roten Keil“ ohne Zweifel Machtverhältnisse, dynamische Diagonalen, sowie ein Zustand der Bewegung dargestellt.
 
 
+### Statischer Zustand
 Bei der Betrachtung des Gesamtbildes jedoch wird deutlich, dass es nicht nur eine Darstellung des Kampfes und der dynamischen Bewegung ist, sondern auch einen bereits geschehenen Siegeszustand statisch festhält. Die roten geometrischen Formen, insbesondere das große, gleichschenklige Dreieck, durchdringen die weiße Fläche, was darauf hinweist, dass die Roten bereits in das Territorium der Weißen eingedrungen sind. Diese Darstellung suggeriert eine Umstellung und Verdrängung der Weißen, was den Eindruck eines bereits erfolgten Sieges verstärkt. Somit wird nicht nur die aktuelle Kampfsituation gezeigt, sondern auch ein Moment festgehalten, in dem die Roten bereits dominieren und triumphiert haben.
 
 
@@ -456,7 +593,14 @@ So scheint Lissitzky, je nach Interpretation des Betrachters, gleichzeitig eine 
 
 ---
 
-## Fazit
+# Fazit
+<img src='img/Grafiken/Light_04.png' class="noresize" id="lightpic">
+<img src='img/Grafiken/Dark_04.png' class="noresize" id="darkpic">
+
+## Vielen Dank!
+
+
+<img src='img/parts/Quadrateparts-8.png' class="noresize">
 
 
 In meinem Fazit reflektiere ich noch einmal die Dualitäten, die sich in meiner Auseinandersetzung ergeben haben: Das Plakat bewegt sich irgendwo zwischen Propaganda und Kunst, wie man durch die Ausgangsfrage und die Formsemantik erkennen konnte. Durch die Analyse der kulturellen Kontexte, die diese Formsprache für die Bevölkerung so zugänglich gemacht hat, konnten der Balanceakt zwischen dem Altbekannten und der Kreation des Neuen beobacht werden. In der Wahrnehmungspsychologie wurde deutlich, dass das Bild gleichzeitig eine Utopie des Sieges und eine Realität des Kampfes beschreibt.
@@ -465,11 +609,15 @@ In meinem Fazit reflektiere ich noch einmal die Dualitäten, die sich in meiner 
 Wenn man das alles hier als Gesamtbild betrachtet, erkennt man eindeutig die Komplexität, welche von Dr. Krieger beschrieben wird. Doch wie bereits etabliert wurde, ist es die Bipolarität, die für Spannung verantwortlich ist und diese Ansammlung an Dualitäten verleiht dem „Roten Keil“ seine Vollkommenheit.
 
 
+<img src='img/parts/Quadrateparts-10.png' class="noresize">
+
+
+
 ---
 
 ## Quellen
 
-Scrollen für Literaturverzeichnis und Bildnachweise!
+**Scrollen für Literaturverzeichnis und Bildnachweise!**
 <br>
 <br>
 [Hier klicken](#start), um zum Anfang zu springen!
@@ -486,11 +634,14 @@ Sommersemester 2024 <br>
 Fachhochschule Potsdam <br>
 
 
-<img src='img/pfeil2.png' class="noresize">
+<img src='img/Grafiken/Light_06.png' class="noresize" id="lightpic">
+<img src='img/Grafiken/Dark_06.png' class="noresize" id="darkpic">
 
 
 
-<img src='img/pfeil3.png' class="noresize">
+<img src='img/Grafiken/Light_05.png' class="noresize" id="lightpic">
+<img src='img/Grafiken/Dark_05.png' class="noresize" id="darkpic">
+
 
 ---
 
